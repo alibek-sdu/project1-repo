@@ -9,7 +9,7 @@ Project parses whole products and categories of Technodom.kz and analyses data w
 
 ## Tech Stack
 
-**Parser:** Node.js, Puppeteer, JSON, CSV Writer
+**Parser:** Node.js, Puppeteer, JSON, CSV Writer, Beautiful Soup
 
 **Analyser:** Pandas, matplotlib.pyplot
 
@@ -45,6 +45,14 @@ node parse.js
 node technodomJson2csv.js
 ```
 
+## Parsing laptops data from the site
+First we try to parse technodom directly by sending request and parsing it with BeautifulSoap. We find pattern how data is created in the front and we send request and get less data than we intend. In the end it was failure, because for the most part data was organized in hard way to find other pattern of information. You can check our attempts in laptopsbyparsing.py.
+
+## Getting Laptops data from api
+Other way to get all data, that we need was by using techodom api. In this case we easily get information that we need for our analysis by directly sending get request to api by neccessary category. 
+
+## Analysis on laptop
+After anlysing data from laptop we get that most of the laptops price is lower than 400000 tg. And that Asus is dominating inside the technodom, which means it most of viewers attention by a lot.
 
 ## Analyser
 
