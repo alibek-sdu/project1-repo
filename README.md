@@ -59,7 +59,8 @@ By the graphics we can see that most laptops costs less than 400000tg and the se
 
 ## Laptop ratings
 In rating part of laptop it's clear that only 4.7% of Laptops was rated high. And that most of them is less than 80% of appreciation. The reason for this kind of distribution is that most of the laptops has no review or ratings. If more people give their honest opinions about the product, that they buy we can rate them properly and get most precise analysis.
-## Analyser
+
+## Analysing gadgets
 
 ### Gadget Ratings
 During the analysis, a bug in the rating data extraction was identified and promptly resolved. The focus was on investigating high ratings (above a specified threshold), providing valuable insights into the exceptional performance of certain gadgets within the dataset.
