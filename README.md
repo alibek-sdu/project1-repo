@@ -80,7 +80,7 @@ The total number of reviews and the count of devices for each brand were accurat
 ```
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+How to parse web sites and analyze data
 
 
 ## 🚀 About Us
