@@ -52,8 +52,13 @@ First we try to parse technodom directly by sending request and parsing it with 
 Other way to get all data, that we need was by using techodom api. In this case we easily get information that we need for our analysis by directly sending get request to api by neccessary category. 
 
 ## Analysis on laptop
-After anlysing data from laptop we get that most of the laptops price is lower than 400000 tg. And that Asus is dominating inside the technodom, which means it most of viewers attention by a lot.
+After anlysing data from laptop we get that most of the laptops price is lower than 400000 tg. And that Asus is dominating inside the technodom, which means it gets most of viewers attention by a lot.
 
+## Price distribution
+By the graphics we can see that most laptops costs less than 400000tg and the second place of price distribution is on 2500000-3000000tg.
+
+## Laptop ratings
+In rating part of laptop it's clear that only 4.7% of Laptops was rated high. And that most of them is less than 80% of appreciation. The reason for this kind of distribution is that most of the laptops has no review or ratings. If more people give their honest opinions about the product, that they buy we can rate them properly and get most precise analysis.
 ## Analyser
 
 ### Gadget Ratings
