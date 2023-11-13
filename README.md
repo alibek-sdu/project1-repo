@@ -100,4 +100,3 @@ We are team of 5 students of Suleyman Demirel University
 - Saidakmal Oktamov (231103003)
 
 - Darkhan Zhadyrayev (221107047)
-- 
