@@ -11,7 +11,7 @@ Project parses whole products and categories of Technodom.kz and analyses data w
 
 **Parser:** Node.js, Puppeteer, JSON, CSV Writer, Beautiful Soup
 
-**Analyser:** Pandas, matplotlib.pyplot
+**Analyser:** Pandas, matplotlib.pyplot, collections, seaborn
 
 
 ## Installation
@@ -82,15 +82,6 @@ The total number of reviews and the count of devices for each brand were accurat
 
 > This Python-based analysis delivers a thorough exploration of key aspects related to gadget data, ensuring a nuanced understanding and facilitating informed decision-making in the realm of consumer electronics.
 
-```bash
-пример кода и запуск аналайзера
-```
-
-## Results
-
-```bash
-здесь результаты Аналайзера
-```
 ## Lessons Learned
 
 How to parse web sites and analyze data
@@ -99,15 +90,13 @@ How to parse web sites and analyze data
 ## 🚀 About Us
 We are team of 5 students of Suleyman Demirel University
 
-Bekzat Makhanbet (211107030)
+- Bekzat Makhanbet (211107030)
 
-Alibek Abdikassym (231107004) 
+- Alibek Abdikassym (231107004) 
 
-Arman Kenessuly (231107005) 
+- Arman Kenessuly (231107005) 
 
-Saidakmal Oktamov (231103003)
+- Saidakmal Oktamov (231103003)
 
-Darkhan Zhadyrayev (221107047)
-
-
-
+- Darkhan Zhadyrayev (221107047)
+- 
